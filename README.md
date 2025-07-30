@@ -1,5 +1,4 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# PRODIGY_WD_2 - Professional Stopwatch
+# PRODIGY_WD_2 - Stopwatch
 
 A high-performance stopwatch application built with:
 - **HTML5** for structure
