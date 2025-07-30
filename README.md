@@ -1,24 +1,17 @@
 # PRODIGY_WD_2 - Stopwatch
 
-A high-performance stopwatch application built with:
-- **HTML5** for structure
-- **CSS3** for dark-mode styling
-- **JavaScript** for precise timing
+A high-performance stopwatch application built with core web technologies during my Infotech Prodigy internship.
 
-## Key Features
-⏱️ **Accurate Timing** - Millisecond precision  
-⏯️ **Smart Controls** - Space=Start/Pause, L=Lap, R=Reset  
-📊 **Lap Memory** - Scrollable history of all laps  
-🌙 **Dark Theme** - Reduces eye strain  
+## 🚀 Key Features
+- ⏱️ **Millisecond precision** timing
+- ⌨️ **Keyboard controls**: 
+  - Space = Start/Pause 
+  - L = Record Lap 
+  - R = Reset
+- 📜 **Scrollable lap history**
+- 🌙 **Dark theme** for reduced eye strain
 
-## How to Use
-1. Download all files
-2. Open `index.html` in any browser
-3. Use buttons or keyboard shortcuts
-
-## Technical Highlights
-```javascript
-// Precise time calculation example
-function updateTimer() {
-  elapsedTime = Date.now() - startTime;
-}
+## 🛠️ Technical Stack
+- **HTML5** - Semantic structure
+- **CSS3** - Modern Flexbox layout
+- **JavaScript** - Precision timing logic
